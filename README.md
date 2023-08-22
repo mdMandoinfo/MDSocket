@@ -39,6 +39,8 @@ use mdMandoinfo\MDSocket;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+MDSocket::run();
+
 ```
 
 # Enable SSL
