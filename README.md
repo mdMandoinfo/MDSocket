@@ -51,9 +51,9 @@ use mdMandoinfo\MDSocket;
 
 ```
 # Documentation
-Arabic: https://github.com/mdMandoinfo/MDSocket/tree/main/documentation/arabic
+**Arabic**:   <a href="https://github.com/mdMandoinfo/MDSocket/tree/main/documentation/arabic">here</a>
 <br>
-English: https://github.com/mdMandoinfo/MDSocket/tree/main/documentation/english
+**English**:  <a href="https://github.com/mdMandoinfo/MDSocket/tree/main/documentation/english">here</a>
 
 <!-- CONTRIBUTING -->
 # Contributing
@@ -71,7 +71,7 @@ Don't forget to give the project a star! Thanks again!
 
 # License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See <a href="https://github.com/mdMandoinfo/MDSocket/blob/main/LICENSE">LICENSE.txt</a> for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
