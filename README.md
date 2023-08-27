@@ -2,13 +2,14 @@
 <div align="center">
   <a href="https://github.com/mdMandoinfo/MDSocket">
     <img src="https://avatars.githubusercontent.com/u/91418066?v=4" alt="Logo" width="80" height="80">
-</a>
+  </a>
 
-<h3 align="center">MDSocket</h3>
+  <h3 align="center">MDSocket</h3>
+
   <p align="center">
-     PHP library for asynchronously serving WebSockets.
+    A PHP library for asynchronously serving WebSockets.
     <br />
-    <a href="https://github.com/mdMandoinfo/MDSocket/blob/main/docs.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mdMandoinfo/MDSocket/blob/main/docs.md"><strong>Explore the documentation »</strong></a>
     <br />
     <a href="https://github.com/mdMandoinfo/MDSocket">View Demo</a>
     ·
@@ -17,17 +18,37 @@
     <a href="https://github.com/mdMandoinfo/MDSocket/issues">Request Feature</a>
   </p>
 
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-
+  <p align="center">
+    <a href="https://github.com/mdMandoinfo/MDSocket/graphs/contributors">
+      <img alt="Contributors" src="https://img.shields.io/github/contributors/mdMandoinfo/MDSocket.svg?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/mdMandoinfo/MDSocket/network/members">
+      <img alt="Forks" src="https://img.shields.io/github/forks/mdMandoinfo/MDSocket.svg?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/mdMandoinfo/MDSocket/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/mdMandoinfo/MDSocket.svg?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/mdMandoinfo/MDSocket/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/mdMandoinfo/MDSocket.svg?style=for-the-badge" />
+    </a>
+  </p>
 </div>
 
-# Requirements
+## What is it?
 
-# Installation <br>
-```
+MDSocket is a powerful PHP library designed for asynchronous WebSocket server implementation. It enables developers to seamlessly integrate WebSocket communication into their applications, offering real-time, bi-directional communication between clients and servers.
+
+# Requirements
+Ensure you have the following prerequisites before using MDSocket:
+
+- PHP version 8.0>=
+- [Composer](https://getcomposer.org/) for dependency management
+
+## Installation
+
+Install MDSocket via Composer:
+
+```sh
 composer require mdMandoinfo/MDSocket
 ```
 
